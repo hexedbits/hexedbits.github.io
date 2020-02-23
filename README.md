@@ -4,10 +4,14 @@
 
 [hexedbits.com](https://www.hexedbits.com)
 
+### Contact
+
+ oss@hexedbits.com
+
 # Projects
 
-* [AboutThisApp](https://hexedbits.github.io/AboutThisApp/)
+If you appreciate my work, [consider becoming a sponsor](https://www.jessesquires.com/sponsor/).
 
-> If you appreciate my work, [consider becoming a sponsor](https://www.jessesquires.com/sponsor/).
+* [AboutThisApp](https://hexedbits.github.io/AboutThisApp/)
 
 *Last updated: 23 Feb 2020*
