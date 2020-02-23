@@ -6,7 +6,7 @@
 
 # Projects
 
-* [AboutThisApp](https://github.com/hexedbits/AboutThisApp) ([Documentation](https://hexedbits.github.io/AboutThisApp/))
+* [AboutThisApp](https://hexedbits.github.io/AboutThisApp/)
 
 > If you appreciate my work, [consider becoming a sponsor](https://www.jessesquires.com/sponsor/).
 
