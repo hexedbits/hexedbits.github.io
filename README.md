@@ -4,7 +4,7 @@
 
 [hexedbits.com](https://www.hexedbits.com)
 
-## Contact
+# Contact
 
  oss@hexedbits.com
 
