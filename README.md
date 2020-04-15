@@ -10,7 +10,7 @@
 
 # Projects
 
-If you appreciate my work, [consider becoming a sponsor](https://www.jessesquires.com/sponsor/).
+If you appreciate my work, [consider becoming a sponsor](https://github.com/sponsors/jessesquires).
 
 * [AboutThisApp](https://hexedbits.github.io/AboutThisApp/)
 * [StatusItemController](https://github.com/hexedbits/StatusItemController)
