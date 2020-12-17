@@ -16,3 +16,4 @@ If you appreciate my work, [consider becoming a sponsor](https://github.com/spon
 * [StatusItemController](https://github.com/hexedbits/StatusItemController)
 
 *Last updated: 17 Dec 2020*
+
