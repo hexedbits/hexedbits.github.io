@@ -15,4 +15,4 @@ If you appreciate my work, [consider becoming a sponsor](https://github.com/spon
 * [AboutThisApp](https://hexedbits.github.io/AboutThisApp/)
 * [StatusItemController](https://github.com/hexedbits/StatusItemController)
 
-*Last updated: 4 Apr 2020*
+*Last updated: 17 Dec 2020*
